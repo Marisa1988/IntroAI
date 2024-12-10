@@ -1,1 +1,1 @@
-# IntroAI
+# brief_AI_intro
